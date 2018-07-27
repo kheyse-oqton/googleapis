@@ -1,0 +1,24 @@
+{
+  "name": "googleapis",
+  "version": "1.0.0",
+  "description": "Public interface definitions of Google APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kheyse-oqton/googleapis.git"
+  },
+  "keywords": [
+    "protobuf",
+    "google",
+    "api"
+  ],
+  "author": "Google",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/kheyse-oqton/googleapis/issues"
+  },
+  "homepage": "https://github.com/kheyse-oqton/googleapis#readme"
+}
